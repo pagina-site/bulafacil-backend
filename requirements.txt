@@ -1,5 +1,6 @@
-fastapi==0.109.2
-uvicorn==0.27.1
-google-generativeai==0.3.2
-pydantic==2.6.1
-rapidfuzz==3.6.1
+# Versões compatíveis com Python 3.10, 3.11 e 3.12
+fastapi>=0.109.0,<0.110.0
+uvicorn>=0.27.0,<0.28.0
+google-generativeai>=0.3.0,<0.4.0
+pydantic>=2.6.0,<2.7.0
+rapidfuzz>=3.6.0,<4.0.0
